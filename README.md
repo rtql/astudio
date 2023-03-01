@@ -4,7 +4,7 @@
 
 
 	
-**Admin Default Account**
+**Admin default account**
 - Email: admin@gmail.com
 - Password: password123
 
