@@ -13,7 +13,7 @@
 **Install**
 
 
-git clone https://github.com/rtql/astudio-test
+git clone https://github.com/rtql/astudio
 
 
 composer install --ignore-platform-reqs
