@@ -400,35 +400,35 @@
                                     <div class="form-floating mb-3 half-input">
                     
                                         <div class="form-check">
-                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="эксперт" id="expert-0" required>
+                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="expert" id="expert-0" required>
                                             <label class="form-check-label" for="expert-0">
                                                 Эксперт
                                             </label>
                                         </div>
                     
                                         <div class="form-check">
-                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="специалист" id="specialist-0" required>
+                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="specialist" id="specialist-0" required>
                                             <label class="form-check-label" for="specialist-0">
                                                 Специалист
                                             </label>
                                         </div>
                     
                                         <div class="form-check">
-                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="опытный" id="skilled-0" required>
+                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="skilled" id="skilled-0" required>
                                             <label class="form-check-label" for="skilled-0">
                                                 Опытный
                                             </label>
                                         </div>
                     
                                         <div class="form-check">
-                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="средний" id="average-0" required>
+                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="average" id="average-0" required>
                                             <label class="form-check-label" for="average-0">
                                                 Средний
                                             </label>
                                         </div>
                                         
                                         <div class="form-check">
-                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="начинающий" id="beginner-0" required>
+                                            <input form="edit-form" class="form-check-input" type="radio" name="level[0]" value="beginner" id="beginner-0" required>
                                             <label class="form-check-label" for="beginner-0">
                                                 Начинающий
                                             </label>
